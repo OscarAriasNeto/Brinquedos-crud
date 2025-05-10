@@ -1,0 +1,4 @@
+br\com\fiap\tds\brinquedos_crud\BrinquedosCrudApplication.class
+br\com\fiap\tds\brinquedos_crud\repository\BrinquedoRepository.class
+br\com\fiap\tds\brinquedos_crud\controller\BrinquedoController.class
+br\com\fiap\tds\brinquedos_crud\model\Brinquedo.class
